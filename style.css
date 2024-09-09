@@ -1,0 +1,140 @@
+.one {
+    display: flex;
+    background-color: #1F2937;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+.one-main-header {
+    display: flex;
+    color: #F9FAF8;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.big {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
+.small {
+    font-size: 18px;
+    color: #E5E7EB;
+    width: 400px;
+}
+
+.links {
+    display: flex;
+    list-style-type: none;
+    margin-left: auto;
+    gap: 10px;
+}
+
+img {
+    margin-left: auto;
+}
+
+.one-secondary-header {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+}
+
+.cards {
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+.components {
+    width: 220px;
+}
+
+.box {
+    height: 150px;
+    width: 220px;
+    border: black 1px solid;
+}
+
+.two-main-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+}
+
+.two {
+    padding-bottom: 100px;
+}
+
+.three {
+    display: flex;
+    flex-direction: column;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    background-color: #E5E7EB;
+}
+
+.three-main-header {
+    font-size: 36px;
+    color: #1F2937;
+    padding-left: 100px;
+    
+    margin-bottom: 0;
+}
+
+.three-sub-header {
+    padding: 0;
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.four {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.four-wrap {
+    display: flex;
+    border: 1px solid #3882F6;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: white;
+    background-color: #3882F6;
+}
+
+.fourth-main-header {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.button {
+    margin-left: auto;
+    background-color: #3882F6;
+    margin: 30px;
+}
+
+.five {
+    background-color: #1F2937;
+}
+
+.footer {
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+
